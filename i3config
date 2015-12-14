@@ -175,5 +175,5 @@ bar {
 bindsym $mod+b mode "bar"
 #lock
 bindsym $mod+l exec "i3lock -dbec 66ffcc -p 'win'"
-# wallpaper
+# wallpaper need feh to work
 exec --no-startup-id feh --bg-scale ~/Images/wallpaper.jpe
