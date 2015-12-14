@@ -57,7 +57,7 @@ set ruler                            " Always show current position
 set number                           " Always show line-numbers
 set mousehide                        " Do not show mouse while typing
 set background=dark                  " Dark background variation of theme
-set guifont=DejaVu Mono\ 10          " Monospaced small font
+set guifont=Georgia\ 10              " Monospaced small font
 set guipty
 "set gfn=DejaVu
 
